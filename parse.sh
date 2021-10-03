@@ -3,24 +3,6 @@
 opt=$1
 outputfile="./output/dom.json"
 
-#comment out from ~/shell_script
-#usage ()
-#{
-#	local script_name=${basename $0}
-#
-#	cat << END
-#Usage: $script_name PATTERN [PATH] [NAME_PATTERN]
-#Find file in current directory recursively, and print lines which match PATTERN.
-#
-#	PATH			find file in PATH directory, instead of current directory
-#	NAME_PATTERN	specify name pattern to find file
-#
-#Examples:
-#	$script_name return
-#	$script_name return ~'*.txt'
-#END
-#}
-
 usage ()
 {
 	cat << EOM
