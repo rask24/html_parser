@@ -1,0 +1,105 @@
+{
+	"tag": "html",
+	"child": [
+		{
+			"tag": "head",
+			"child": [
+				{
+					"tag": "title",
+					"child": {
+						"content": "kneeling shooting position"
+					}
+				}
+			]
+		},
+		{
+			"tag": "body",
+			"child": [
+				{
+					"tag": "h1",
+					"child": {
+						"content": "KNEELING SHOOTING POSITION"
+					}
+				},
+				{
+					"tag": "h2",
+					"child": {
+						"content": "Biomechanical analysis"
+					}
+				},
+				{
+					"tag": "p",
+					"child": {
+						"content": 
+						"The kneeling position has less stability than the prone position because the support area is much smaller and the center of gravity of the system shooter-rifle is higher. The support area is limited to the three points - the left foot, the knee and toe tips of the right leg. Because of the uncomfortable and unnatural position of the shooter, the kneeling position is considered to be the most complicated shooting position. It demands extreme versatility and persistence of the shooter. Because of these obstacles, the kneeling position is one that most shooters need practice to refine and perfect.  Depending on the position of the body relative to the target, two options when considering the kneeling position:"
+					}
+				},
+				{
+					"tag": "ul",
+					"child": [
+						{
+							"tag": "li",
+							"child": {
+								"content": "Open position – the body is turned more towards the target"
+							}
+						},
+						{
+							"tag": "li",
+							"child": {
+								"content": "Closed position – the body is turned more towards the right"
+							}
+						}
+					]
+				},
+				{
+					"tag": "p",
+					"child": {
+						"content": " Biomechanically, both variations of the kneeling position should have the same characteristics: The barrel line (rifle weight) should be over the kneeling roll in order to reach a balanced position. The size of the kneeling role plays a big role in obeying this rule. Point is to have COG of the system body–rifle around the middle of the support area. The rifle should be above the left foot and the left lower leg must be vertical in a sagittal plane Upper part of the body should follow the same rules as in prone. The pressure of the rifle in the left hand should be same as the pressure of the butt plate in the shoulder. "
+						}
+				},
+				{
+					"tag": "h2",
+					"child": {
+						"content": "The basic kneeling position should consist of the following elements (right-handed shooters):"
+					}
+				},
+				{
+					"tag": "h3",
+					"child": {
+						"content": "Upper body"
+					}
+				},
+				{
+					"tag": "p",
+					"child": {
+						"content": " The position and the angle of the upper body depend on if the shooter is using a more open or close kneeling position. If the shooter uses a open position, the upper part leans forward. If the shooter uses a close position there is more weight placed on the kneeling roll.  The right shoulder is completely relaxed. The shoulders should be level."
+					}
+				},
+				{
+					"tag": "h3",
+					"child": {
+						"content": "Legs and feet"
+					}
+				},
+				{
+					"tag": "p",
+					"child": {
+						"content": "The left leg is bent so that the shin is vertical, providing good support for the rifle. The shin can only be moved forward but not behind the vertical position. Long-legged shooters generally move the shin forward to lower the rifle into the target to adjust for their limbs. The position of the shin depends on the position of the left elbow on the leg - if the elbow is over the knee, the shin is vertical. If the elbow is placed behind the knee, then the shin is positioned slightly forward.  The left foot often follows the angle of the right thigh. Turning the left foot can help to reduce the horizontal movement and give a larger support area.  The left foot is rotated to the right and the axis of the foot and line of fire forms an angle of 35-45 degrees. In the open position, the left foot generally follows the position of the right thigh. Turning the left foot helps to reduce the horizontal movement and creates a larger support area for the elbow.  In the open position, the right knee is placed at an angle of about 45 degrees to the right of the line of fire. The shooter should place some pressure on the right knee.  The right knee should follow an angle almost to 90 degrees in the close position. The pressure on the right knee is very weak, and in some cases, shooters do not have their knee on the ground at all."
+					}
+				},
+				{
+					"tag": "h3",
+					"child": {
+						"content": "Kneeling roll"
+					}
+				},
+				{
+					"tag": "p",
+					"child": {
+						"content": " The kneeling roll is used as a support for the right leg. Using the proper size of kneeling roll is extremely important for the stability and the correct position of the shooter. The thickness of the kneeling roll depends on the foot size of the shooter. The kneeling roll should allow the shooter to sit relaxed on the right heel, have a good stability of the position, and not be too high from the ground. The kneeling roll should be placed directly under the ankle. The right foot is vertical, so that the toes are straight or slightly to the right. It should be placed in the center of the kneeling roll. The shooter leans against either the heel of the right foot, or slightly forward by the last portion of the spine. The spine is bent and relaxed straight down or a little forward, depending on the position of left elbow. The spine should not bend aside.  "
+					}
+				}
+			]
+		}
+	]
+}

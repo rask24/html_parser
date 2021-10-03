@@ -1,5 +1,5 @@
 SRCDIR = ./src
-SRC = $(SRCDIR)/parser.c $(SRCDIR)/to_json.c
+SRC = $(SRCDIR)/parser.c $(SRCDIR)/to_json.c $(SRCDIR)/utils.c
 CMP = main.c $(SRC)
 INCDIR = ./include
 OUTPUT = ./output/dom.json

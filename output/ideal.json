@@ -1,0 +1,33 @@
+{
+	"tag": "html",
+	"child": [
+		{
+			"tag": "head",
+			"child": [
+				{
+					"tag": "title",
+					"child": {
+						"content": "sample page"
+					}
+				}
+			]
+		},
+		{
+			"tag": "body",
+			"child": [
+				{
+					"tag": "h1",
+					"child": {
+						"content": "SAMPLE"
+					}
+				},
+				{
+					"tag": "p",
+					"child": {
+						"content": "This is a sample page!!"
+					}
+				}
+			]
+		}
+	]
+}

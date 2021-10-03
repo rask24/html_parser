@@ -7,6 +7,7 @@
 #include <fcntl.h>
 #include <string.h>
 #include <ctype.h>
+#include <stdbool.h>
 
 #define BUF_SIZE 4096
 #define INPUT_FILE_NAME "./input/index.html"
@@ -19,6 +20,7 @@ typedef struct s_node
 {
 	char *tag;
 	char *content;
+	struct s_node *next;
 	struct s_node *child;
 } t_node;
 

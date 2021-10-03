@@ -4,6 +4,7 @@ int main(void)
 {
 	int fd;
 	char *str;
+	void *ptr;
 	char buf[BUF_SIZE];
 	ssize_t rsize;
 	t_node *node;
@@ -16,6 +17,8 @@ int main(void)
 	node = parse_node(buf);
 	print_node(node);
 	close(fd);
-	to_json(node);
+	ptr = node->child->next->child;
+	printf("%p\n", ptr->next);
+	//to_json(node);
 	return 0;
 }

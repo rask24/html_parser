@@ -23,6 +23,7 @@ if [ $opt = run ]; then
 	make -s
 	./a.out
 elif [ $opt = build ]; then
+	make clean
 	make
 elif [ $opt = test ]; then
 	if [ -f $outputfile ]; then
@@ -34,5 +35,6 @@ elif [ $opt = test ]; then
 	fi
 else
 	echo "error: invalid argument"
+	exit 1
 fi
 
