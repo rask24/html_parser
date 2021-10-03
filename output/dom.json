@@ -1,0 +1,15 @@
+{
+	"tag": "html",
+	"child": {
+		"tag": "body",
+		"child": {
+			"tag": "h1",
+			"child": {
+				"tag": "span",
+				"child": {
+					"content": "Content"
+				}
+			}
+		}
+	}
+}
